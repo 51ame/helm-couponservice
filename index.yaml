@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  couponservice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-28T11:44:48.839260813+03:00"
+    dependencies:
+    - name: mysql
+      repository: http://charts.bitnami.com/bitnami
+      version: 9.10.1
+    description: A Helm chart for Kubernetes
+    digest: 559ff9854843defd2cb9422fd5c937bb2a311042aab3ca7bd9531f29180fdbdd
+    name: couponservice
+    type: application
+    urls:
+    - couponservice-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-28T11:44:48.830001921+03:00"
